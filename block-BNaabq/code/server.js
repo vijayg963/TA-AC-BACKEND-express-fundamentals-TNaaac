@@ -39,5 +39,5 @@ app.post('/json', (req, res) => {
 });
 
 app.listen(4000, () => {
-  console.log('Port is listening for port 4k');
+  console.log('Port is listen for port 4k');
 });
