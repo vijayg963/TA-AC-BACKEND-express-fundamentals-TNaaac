@@ -1,0 +1,44 @@
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  width: 600px;
+  height: 350px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: brown;
+  text-decoration: underline;
+}
+
+p {
+  color: gray;
+}
+
+form {
+  margin: 0 auto;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10%;
+}
+
+input {
+  padding: 5px;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  display: block;
+  width: 100%;
+}
+
+input[type='submit'] {
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 600;
+  width: 25%;
+  display: block;
+  margin: 0 auto;
+}
